@@ -1,0 +1,9 @@
+true,predicted,count
+Shirt,T-shirt/top,78
+T-shirt/top,Shirt,75
+Shirt,Coat,57
+Shirt,Pullover,45
+Coat,Shirt,44
+Pullover,Coat,36
+Pullover,Shirt,32
+Ankle boot,Sneaker,25

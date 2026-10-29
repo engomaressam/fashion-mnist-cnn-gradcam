@@ -1,0 +1,12 @@
+metric,value
+train_images,54000
+val_images,6000
+test_images,10000
+classes,10
+duplicates_in_train,0
+test_in_train,0
+final_model,Deep CNN (BatchNorm + Dropout)
+mistakes,633
+confident_mistake_share,0.1943127962085308
+shirt_recall,0.793
+mean_pixel_darkest_class,Coat
