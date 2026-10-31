@@ -10,6 +10,8 @@ Final project for *Deep Learning and Reinforcement Learning* (IBM Machine Learni
 | Report (10 pages) | [`report/Deep Learning - Final Project Report.pdf`](report/Deep%20Learning%20-%20Final%20Project%20Report.pdf) |
 | Data | Fashion-MNIST via `tf.keras.datasets` (54,000 train / 6,000 validation / 10,000 test; no duplicates, no test images in train) |
 | Outputs | `figures/` (7 charts), `results/` (every table in the report as CSV) |
+| Write-up | [An image classifier you can trust 80% of the time: confidence gating and Grad-CAM](https://dev.to/eng_omaressam_7cb0e2a9c/an-image-classifier-you-can-trust-80-of-the-time-confidence-gating-and-grad-cam-45he) (dev.to) |
+| Also on | [Kaggle notebook](https://www.kaggle.com/code/engomaressam/fashion-mnist-cnns-confidence-gating-grad-cam) · [Hugging Face model](https://huggingface.co/omaressamrme/fashion-mnist-deep-cnn) · [omaressam.web.app](https://omaressam.web.app/#projects) |
 
 ## Results
 
